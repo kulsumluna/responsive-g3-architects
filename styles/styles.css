@@ -284,7 +284,12 @@ footer
       margin-top: 20px;
      margin-left: 20px;
     }
-    
+
+    footer
+    {
+      width: 80%;
+      margin: 20px auto;
+    }
 }
 /* medium device */
 @media screen and (min-width:576px) and (max-width:992px) {
@@ -306,6 +311,11 @@ footer
       {
         margin-top: 20px;
        margin-left: 20px;
+      }
+      footer
+      {
+        width: 80%;
+        margin: 20px auto;
       }
   
       
